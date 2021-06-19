@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+TweakOrder: 0
+MixinConfigs: mixins.mercury.json
+FMLAT: mercury_at.cfg
+TweakClass: org.spongepowered.asm.launch.MixinTweaker
+FMLCorePlugin: fail.mercury.client.api.loader.MercuryLoader
+
